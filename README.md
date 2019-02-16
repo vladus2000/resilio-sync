@@ -1,4 +1,4 @@
-# dnscrypt-proxy
+# resilio-sync
 
 You want to expose 55555 for the syncing and 8888 for the webui
 
